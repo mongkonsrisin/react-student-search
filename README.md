@@ -1,4 +1,4 @@
-Student search developed with React
+Student search developed with React 16
 ![SCREENSHOT](https://uppic.cc/d/ceE)
 
 # DEMO
